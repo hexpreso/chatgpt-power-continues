@@ -1,10 +1,7 @@
-# chatgpt-power-continues
+# ChatGPT Power Continues
 Power‑Continues‑style prompt buttons for ChatGPT
 
-
-# ChatGPT Power Continues
-
-[![Install on GreasyFork](https://img.shields.io/badge/Install-GreasyFork-brightgreen)](https://greasyfork.org/scripts/XXXX-chatgpt-power-continues)
+[![Install on GreasyFork](https://img.shields.io/badge/Install-GreasyFork-brightgreen)](https://greasyfork.org/en/scripts/543339-chatgpt-power-continues)
 
 ![pic](assets/SCR-20250722-onzh.png)
 
