@@ -13,6 +13,7 @@
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @resource     prompts https://raw.githubusercontent.com/rafareborn/chatgpt-power-continues/master/prompts/prompts.json
+// @license      MIT; https://opensource.org/licenses/MIT
 // ==/UserScript==
 
 (() => {
