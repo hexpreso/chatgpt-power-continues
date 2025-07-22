@@ -1,0 +1,20 @@
+{
+  "prompts": [
+    {
+      "label": "One‑Liner",
+      "value": "Repeat the latest instruction using one or more logically grouped, idiomatic one‑liners. Use `&&`, `|`, or subshells where appropriate. Split into multiple one‑liners if needed for clarity or UNIX best practices."
+    },
+    {
+      "label": "Drop‑In Replacement",
+      "value": "Provide the full drop‑in replacement text. Match structure, logic, and intent so it can be pasted without further editing."
+    },
+    {
+      "label": "Infer Goal",
+      "value": "Review the entire conversation and identify what the user is trying to achieve. Summarize the underlying goal as a single clear instruction prompt suitable for direct input into an AI model."
+    },
+    {
+      "label": "Continue",
+      "value": "Continue generating the response where it was cut off. Don’t repeat previous content unless necessary for coherence."
+    }
+  ]
+}
